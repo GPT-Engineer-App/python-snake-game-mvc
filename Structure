@@ -1,0 +1,6 @@
+snake_game/
+│
+├── model.py       # Game logic
+├── view.py        # Game rendering
+└── controller.py  # User input and game control
+└── main.py        # Entry point, initializes MVC components
